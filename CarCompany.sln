@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApi", "WebApplication1\MyApi.csproj", "{F72DDDFE-826F-4BB5-8982-0CAC72CEED02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "ClassLibrary1\Common.csproj", "{0A88219A-425C-4FA7-93B7-EBBEDBE363E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{0A88219A-425C-4FA7-93B7-EBBEDBE363E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{0BE1E8C6-130D-40A6-B36E-B3C23D499AE5}"
 EndProject

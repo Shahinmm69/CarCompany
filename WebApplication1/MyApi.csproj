@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-WebApplication1-CF1ABEBA-B96B-426B-9654-5A46E5105D1B</UserSecretsId>
   </PropertyGroup>
