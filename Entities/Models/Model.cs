@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Entities
 {
@@ -15,7 +17,7 @@ namespace Entities
         public virtual ICollection<Image> Images { get; set; }
         public virtual ICollection<Date> Dates { get; set; }
     }
-    public class PostConfiguration : IEntityTypeConfiguration<Model>
+    public class ModelConfiguration : IEntityTypeConfiguration<Model>
     {
         public void Configure(EntityTypeBuilder<Model> builder)
         {
