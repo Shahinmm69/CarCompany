@@ -13,6 +13,7 @@ namespace MyApi.Controllers.v1
         public ImagesController(IRepository<Image> repository)
             : base(repository)
         {
+
         }
     }
 }
