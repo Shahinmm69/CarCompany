@@ -8,9 +8,9 @@ using WebFramework.Api;
 
 namespace MyApi.Controllers.v1
 {
-    public class ModelsController : CrudController<ModelDto, ModelSelectDto, Model>
+    public class ModelsController : CrudController<CarModelDto, ModelSelectDto, CarModel>
     {
-        public ModelsController(IRepository<Model> repository)
+        public ModelsController(IRepository<CarModel> repository)
             : base(repository)
         {
         }

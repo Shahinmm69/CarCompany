@@ -8,12 +8,11 @@ using WebFramework.Api;
 
 namespace MyApi.Controllers.v1
 {
-    public class ImagesController : CrudController<ImageDto, ImageSelectDto, Image>
+    public class ImagesController : CrudController<CarImagesGalleryDto, ImageSelectDto, CarImagesGallery>
     {
-        public ImagesController(IRepository<Image> repository)
+        public ImagesController(IRepository<CarImagesGallery> repository)
             : base(repository)
         {
-
         }
     }
 }

@@ -5,12 +5,12 @@ using WebFramework.Api;
 
 namespace MyApi
 {
-    public class CompanyDto : BaseDto<CompanyDto, Company, Guid>
+    public class CompanyDto : BaseDto<CompanyDto, Company>
     {
         public string CompanyName { get; set; }
     }
 
-    public class CompanySelectDto : BaseDto<CompanySelectDto, Company, Guid>
+    public class CompanySelectDto : BaseDto<CompanySelectDto, Company>
     {
         public string CompanyName { get; set; }
     }

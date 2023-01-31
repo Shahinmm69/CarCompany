@@ -2,6 +2,7 @@
 using Autofac.Extensions.DependencyInjection;
 using Common;
 using Data;
+using Data.Contract;
 using Data.Repositories;
 using Entities;
 using Microsoft.Extensions.DependencyInjection;

@@ -8,9 +8,9 @@ using WebFramework.Api;
 
 namespace MyApi.Controllers.v1
 {
-    public class DatesController : CrudController<DateDto, DateSelectDto, Date>
+    public class DatesController : CrudController<CostHistoryDto, DateSelectDto, CostHistory>
     {
-        public DatesController(IRepository<Date> repository)
+        public DatesController(IRepository<CostHistory> repository)
             : base(repository)
         {
         }

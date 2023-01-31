@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\source\\Common\\Common.csproj": {}
+    "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\New folder\\CarCompany-main\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\source\\Common\\Common.csproj": {
+    "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\New folder\\CarCompany-main\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\source\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\New folder\\CarCompany-main\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\source\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\New folder\\CarCompany-main\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\s.maboudi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\source\\Common\\obj\\",
+        "outputPath": "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\New folder\\CarCompany-main\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s.maboudi\\AppData\\Roaming\\NuGet\\NuGet.Config",

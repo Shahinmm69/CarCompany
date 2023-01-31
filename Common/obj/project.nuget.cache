@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M/gJWa+0rw1TgUKjx/JaG5W1nMI9EduYpP2C+vv2xx0FuxV8M0eUKuf2J66VmSlj92sKkhSJ6tvx/PFGAA+DTQ==",
+  "dgSpecHash": "3l83ByJIeuaF7VYyIIlfYKxXm+HN6w+AQWZUqHGs3SGiznsvlm6h3bcokW0CTqq7YOhpnpW1HL8aos1GrnO19w==",
   "success": false,
-  "projectFilePath": "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\source\\Common\\Common.csproj",
+  "projectFilePath": "C:\\Users\\s.maboudi\\Desktop\\jozve\\New folder\\CarCompany\\New folder\\CarCompany-main\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s.maboudi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\s.maboudi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
